@@ -1,15 +1,24 @@
-<div align="center">
-    <p>I've been coding for about 5 years now</p>
+<div id="header" align="center">
+<h2>About Me 👋</h2>
 
-    <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> - My main code editor
+Coding for about 3 years now 🖥 <br>
 
-    <img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> - Most frequently used language
+14 years old 🧑 <br>
 
-    <img src="https://github-readme-stats.vercel.app/api?username=xdefined&show_icons=true&locale=en&theme=chartreuse-light" alt="xdefined">
+I love math, coding and hacking 👩‍🔬 <br>
 
-    <img src="https://komarev.com/ghpvc/?username=xdefined&style=flat-square&color=blue" alt=""/>
+<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> - Visual Studio Code 💻
+
+<img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> - Python 🚀
+
+<p>&nbsp;<img align="center" style="position:absolute"src="https://github-readme-stats.vercel.app/api?username=TheonlyIcebear&show_icons=true&locale=en&theme=chartreuse-light" alt="Ice Bear">
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=TheonlyIcebear&style=flat-square&color=blue" alt=""/>
+
 </div>
-
+<br><br><br>
 
 <div align="center">
     <h1>Languages I Use and Am Learning</h1>
