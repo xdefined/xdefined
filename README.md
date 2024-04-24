@@ -5,7 +5,7 @@
 
     <img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> - Most Frequent used language
 
-    <p>&nbsp;<img align="center" style="position:absolute"src="https://github-readme-stats.vercel.app/api?username=xdefined&show_icons=true&locale=en&theme=chartreuse-light" alt="xdefined">
+    <img align="center" style="position:absolute"src="https://github-readme-stats.vercel.app/api?username=xdefined&show_icons=true&locale=en&theme=chartreuse-light" alt="xdefined">
 
 
     <img src="https://komarev.com/ghpvc/?username=xdefined&style=flat-square&color=blue" alt=""/>
