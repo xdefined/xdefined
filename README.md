@@ -25,3 +25,4 @@
 STATUS  :  Developing
 Languages  :  Python, HTML, CSS, NODEJS, JavaScript
 Discord  :  failedtrades
+```
