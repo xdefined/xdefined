@@ -1,14 +1,15 @@
-<div id="header" align="center">
+<div align="center">
     <p>I've been coding for about 5 years now</p>
 
     <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> - My main code editor
 
     <img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> - Most frequently used language
 
-    <img style="position:absolute" src="https://github-readme-stats.vercel.app/api?username=xdefined&show_icons=true&locale=en&theme=chartreuse-light" alt="xdefined">
+    <img src="https://github-readme-stats.vercel.app/api?username=xdefined&show_icons=true&locale=en&theme=chartreuse-light" alt="xdefined">
 
     <img src="https://komarev.com/ghpvc/?username=xdefined&style=flat-square&color=blue" alt=""/>
 </div>
+
 
 <div align="center">
     <h1>Languages I Use and Am Learning</h1>
