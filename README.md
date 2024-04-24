@@ -14,7 +14,7 @@ I love math, coding and hacking 👩‍🔬 <br>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=TheonlyIcebear&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=xdefined&style=flat-square&color=blue" alt=""/>
 
 </div>
 <br><br>
