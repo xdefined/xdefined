@@ -1,23 +1,20 @@
 <div id="header" align="center">
-<h2>About Me 👋</h2>
+<h2>xdefined</h2>
 
-Coding for about 3 years now 🖥 <br>
+Been coding for 5 years now <br>
 
+<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> - Main code editor
 
-I love math, coding and hacking 👩‍🔬 <br>
+<img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> - Main language
 
-<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> - Visual Studio Code 💻
-
-<img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> - Python 🚀
-
-<p>&nbsp;<img align="center" style="position:absolute"src="https://github-readme-stats.vercel.app/api?username=xdefined&show_icons=true&locale=en&theme=chartreuse-light" alt="Ice Bear">
+<p>&nbsp;<img align="center" style="position:absolute"src="https://github-readme-stats.vercel.app/api?username=xdefined&show_icons=true&locale=en&theme=chartreuse-light" alt="Xdefined">
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=xdefined&style=flat-square&color=blue" alt=""/>
 
 </div>
-<br><br>
+<br>
 
 <div align="center">
     <h1>Languages I Use and Am Learning</h1>
