@@ -7,12 +7,10 @@
 
     <p>&nbsp;<img align="center" style="position:absolute"src="https://github-readme-stats.vercel.app/api?username=xdefined&show_icons=true&locale=en&theme=chartreuse-light" alt="xdefined">
 
-    <br>
 
     <img src="https://komarev.com/ghpvc/?username=xdefined&style=flat-square&color=blue" alt=""/>
 
 </div>
-<br><br><br>
 
 <div  align="center">
     <h1> Languages i use and am learning </h1>
