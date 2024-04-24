@@ -3,7 +3,6 @@
 
 Coding for about 3 years now 🖥 <br>
 
-14 years old 🧑 <br>
 
 I love math, coding and hacking 👩‍🔬 <br>
 
@@ -11,14 +10,14 @@ I love math, coding and hacking 👩‍🔬 <br>
 
 <img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> - Python 🚀
 
-<p>&nbsp;<img align="center" style="position:absolute"src="https://github-readme-stats.vercel.app/api?username=TheonlyIcebear&show_icons=true&locale=en&theme=chartreuse-light" alt="Ice Bear">
+<p>&nbsp;<img align="center" style="position:absolute"src="https://github-readme-stats.vercel.app/api?username=xdefined&show_icons=true&locale=en&theme=chartreuse-light" alt="Ice Bear">
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=TheonlyIcebear&style=flat-square&color=blue" alt=""/>
 
 </div>
-<br><br><br>
+<br><br>
 
 <div align="center">
     <h1>Languages I Use and Am Learning</h1>
